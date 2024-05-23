@@ -5,6 +5,7 @@ Este é um projeto de desenvolvimento com base em um desafio para estágio criad
 
 ## Requisitos
 - Python 3.10.14
+- Jupyter
 - Git
 
 ## Bibliotecas Utilizadas
